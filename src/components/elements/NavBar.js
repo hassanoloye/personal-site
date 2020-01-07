@@ -43,10 +43,6 @@ class NavBar extends React.Component {
                                 text = "Experience"
                                 href = "#experience"
                             />
-                            <MenuItem
-                                text = "Articles"
-                                href = "#articles"
-                            />
                         </div>
                     </div>
                 </div>

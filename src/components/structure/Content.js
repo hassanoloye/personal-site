@@ -10,7 +10,6 @@ function Content() {
             <AboutMe />
             <Skills />
             <Experience />
-            <Articles />
         </main>
     )
 }
