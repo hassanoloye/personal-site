@@ -12,6 +12,12 @@
     },
     "profiles": [
       {
+        "network": "Gmail",
+        "username": "oyeboadehassan[at]gmail.com",
+        "url": "mailto:oyeboadehassan@gmail.com",
+        "x_icon": "far fa-2x fa-envelope"
+      },
+      {
         "network": "LinkedIn",
         "username": "hassanoyeboade",
         "url": "https://www.linkedin.com/in/hassanoyeboade",
