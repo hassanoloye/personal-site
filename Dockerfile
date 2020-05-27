@@ -5,10 +5,8 @@ ARG directory=/usr/local/personal-site
 RUN mkdir -p $directory
 WORKDIR $directory
 
-COPY package*.json app.js ./
-RUN npm install
-COPY build/ $directory/build/
+COPY ./ $directory/
+RUN npm install && npm run build
 
-RUN rm -f .env
 EXPOSE 5000
 CMD ["sh", "-c", "npm start"]
