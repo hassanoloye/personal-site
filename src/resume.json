@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "images/avatar.png",
     "x_title": "Hi There! Welcome",
-    "summary": "Solution-oriented and self-driven software engineer with 4 years of expertise in frontend and backend development, system design, deployment, project planning, etc. An excellent communicator with demonstrated stakeholder management skills. Fast learner with the ability to deliver solutions as an individual and as part of a team. Proficient in Python, Javascript, PostgreSQL, MySQL.",
+    "summary": "Solution-oriented and self-driven software engineer with 4 years of expertise in frontend and backend development, system design, project planning, and deployment. An excellent communicator with demonstrated stakeholder management skills. Fast learner with the ability to deliver solutions as an individual and as part of a team. Proficient in NodeJS, Python, Express, Django, Flask, PostgreSQL, MySQL, MongoDB, GCP, Docker, etc",
     "location": {
       "country": "Nigeria",
       "countryCode": "NG",
@@ -43,7 +43,7 @@
       "position": "Backend Engineer",
       "website": "https://www.intelia.io",
       "startDate": "2019-02",
-      "endDate": "",
+      "endDate": "2020-11",
       "summary": "Built internal services that interact with 3rd party APIs like Slack, Jira which increased  project velocity by 30%\nBuilt a Node.js API that verify visitors to a secured residential area for a mobile app\nWorked with other team members to deploy to Google Compute Engine (GCE) and Google Kubernetes Engine (GKE) \nSet up monitoring systems to deployed services which ensured prompt response to services outage and reduced downtime duration\nDeveloped a payment system for a Restaurant app using PayPal commerce integration\nImproved slow API responses and used Redis and Celery to handle time-consuming API requests\nManaged a team of 4 to build an iOS app while working on the backend API\n",
       "highlights": []
     },
@@ -110,57 +110,32 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Javascript",
-      "level": 60,
-      "keywords": ["Software Developer"]
-    },
-    {
       "name": "Node.js",
-      "level": 60,
+      "level": 85,
       "keywords": ["Software Developer"]
     },
     {
-      "name": "React",
-      "level": 60,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Angular",
-      "level": 60,
+      "name": "Express",
+      "level": 80,
       "keywords": ["Software Developer"]
     },
     {
       "name": "PostgreSQL",
-      "level": 80,
+      "level": 70,
       "keywords": ["Software Developer"]
     },
     {
-      "name": "SQL",
-      "level": 80,
+      "name": "MySQL",
+      "level": 70,
       "keywords": ["Software Developer"]
     },
     {
       "name": "MongoDB",
-      "level": 80,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Git",
       "level": 60,
       "keywords": ["Software Developer"]
     },
     {
       "name": "Docker",
-      "level": 60,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Jira",
-      "level": 80,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Asana",
       "level": 60,
       "keywords": ["Software Developer"]
     },

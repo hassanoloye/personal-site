@@ -5,12 +5,12 @@ on:
 
 env:
   REPOSITORY_ID: ${{github.event.repository.name}}
-  ALERTS_CHANNEL_ID: G0146DEF2Q2
+  ALERTS_CHANNEL_ID: G013X5BU48P
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: ${{ true }} # If true, job will always run. To stop job from running, set to false
+    if: ${{ false }} # If true, job will always run. To prevent job from running, set to false
 
     steps:
       - name: Job started

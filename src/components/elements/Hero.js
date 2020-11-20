@@ -17,7 +17,7 @@ function Hero() {
             </div>
             <div className="hero-foot" style={{paddingBottom:'20px'}}>
                 <div className="columns is-mobile">
-                    <div className="column is-4"></div>
+                    <div className="column is-2"/>
                     {
                         Resume.basics.profiles.map((value, index) => {
                             return (
@@ -31,7 +31,7 @@ function Hero() {
                             );
                         })
                     }
-                    <div className="column is-4"></div>
+                    <div className="column is-2"></div>
                 </div>
             </div>
         </section>
