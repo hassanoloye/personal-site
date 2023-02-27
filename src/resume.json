@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Hassan Oyeboade",
-    "label": "Software Engineer",
+    "label": "Experienced Software Engineer",
     "picture": "images/avatar.png",
     "x_title": "Hi There! Welcome",
-    "summary": "Solution-oriented and self-driven software engineer with 4 years of expertise in frontend and backend development, system design, project planning, and deployment. An excellent communicator with demonstrated stakeholder management skills. Fast learner with the ability to deliver solutions as an individual and as part of a team. Proficient in NodeJS, Python, Express, Django, Flask, PostgreSQL, MySQL, MongoDB, GCP, Docker, etc",
+    "summary": "I am an innovative and experienced software engineer with over six years experience in building robust solutions and improving software performance. I have lots of experience translating user requirements into practical solutions. I possess in-depth knowledge of different software architectures with the ability to apply them to new and existing software systems",
     "location": {
       "country": "Nigeria",
       "countryCode": "NG",
@@ -39,12 +39,38 @@
   },
   "work": [
     {
+      "company": "Self Employed",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2022-12",
+      "summary": "Developed an online Education management system application for secondary and tertiary schools\nDeveloped a pediatric health literacy project using OpenAI API",
+      "highlights": []
+    },
+    {
+      "company": "SearchSmartly, London",
+      "position": "Software Engineer",
+      "website": "https://kobo360.com",
+      "startDate": "2022-04",
+      "endDate": "2022-12",
+      "summary": "Developed new integrations to expand product inventories, increasing the number of user results and the company's revenue using Python, Django Rest Framework, Redis and Celery\nImplemented retry mechanism for failed leads and opportunities generation, leading to a simplified ops process and accurate data using Python, Django Rest Framework, ExpressJS and BullMQ",
+      "highlights": []
+    },
+    {
+      "company": "Kobo360, Nigeria",
+      "position": "Backend Engineer | Delivery Lead",
+      "website": "https://kobo360.com",
+      "startDate": "2021-04",
+      "endDate": "2022-04",
+      "summary": "Led the expansion of channels for collecting customer orders, leading to increased sales using NodeJS, React, Flutter, AWS Lambda and Whatsapp API\nDesigned and developed new payment integrations and maintained existing ones facilitating a smooth process for payment managers to make payments using NodeJS, ExpressJS and MongoDB.\nDeveloped slack bot for engineers to submit requests to DevOps, leading to improved resolution time, and providing analysis for the DevOps team using Python, Web.py, MongoDB and Slack API",
+      "highlights": []
+    },
+    {
       "company": "Intelia - Lagos, Nigeria",
       "position": "Backend Engineer",
       "website": "https://www.intelia.io",
       "startDate": "2019-02",
       "endDate": "2020-11",
-      "summary": "Built internal services that interact with 3rd party APIs like Slack, Jira which increased  project velocity by 30%\nBuilt a Node.js API that verify visitors to a secured residential area for a mobile app\nWorked with other team members to deploy to Google Compute Engine (GCE) and Google Kubernetes Engine (GKE) \nSet up monitoring systems to deployed services which ensured prompt response to services outage and reduced downtime duration\nDeveloped a payment system for a Restaurant app using PayPal commerce integration\nImproved slow API responses and used Redis and Celery to handle time-consuming API requests\nManaged a team of 4 to build an iOS app while working on the backend API\n",
+      "summary": "Developed a project health dashboard providing reports on active projects leading to better project insights and increased project velocity using ReactJS, Python, Flask, MySQL, Slack API and Jira API.\nSet up GitHub workflows to automatically build docker images for the GCP registry, removing the need for manual deployments by developers and reducing deployment time.\nAchieved a significant reduction in API response time on various systems by leveraging caching and asynchronous operations using Python, Flask, Redis and Celery.",
       "highlights": []
     },
     {
@@ -62,7 +88,7 @@
       "website": "https://www.andela.com",
       "startDate": "2016-04",
       "endDate": "2019-02",
-      "summary": "Implemented REST API endpoints using NodeJS/Express, Flask/Flask Restful and Django /Django Rest Framework\nDesigned and built internal web applications while working in an agile team\nWrote unit and integration tests using TDD approach, performed Continuous Integration and Continuous Delivery, and wrote End to End tests using Selenium\nUsed Git for version control and Github for collaboration \nMentored and reviewed Pull requests for junior developers on different technologies\nConducted technical interviews to determine fit for prospective Andela Engineers\n",
+      "summary": "Developed API endpoints to support business requirements for Andela partners using Python, Django, Flask and Postgres\nCollaborated with team members to design and implement features for internal tools using NodeJS, GraphQ and  ReactJS\nConducted interviews for prospective Engineers to determine technical and cultural fit",
       "highlights": []
     },
     {
@@ -96,17 +122,17 @@
   "skills": [
     {
       "name": "Python",
-      "level": 85,
+      "level": 90,
       "keywords": ["Software Developer"]
     },
     {
       "name": "Django",
-      "level": 80,
+      "level": 85,
       "keywords": ["Software Developer"]
     },
     {
       "name": "Flask",
-      "level": 80,
+      "level": 85,
       "keywords": ["Software Developer"]
     },
     {
@@ -121,27 +147,32 @@
     },
     {
       "name": "PostgreSQL",
-      "level": 70,
+      "level": 80,
       "keywords": ["Software Developer"]
     },
     {
       "name": "MySQL",
-      "level": 70,
+      "level": 80,
       "keywords": ["Software Developer"]
     },
     {
       "name": "MongoDB",
-      "level": 60,
+      "level": 70,
       "keywords": ["Software Developer"]
     },
     {
       "name": "Docker",
-      "level": 60,
+      "level": 70,
       "keywords": ["Software Developer"]
     },
     {
       "name": "English",
-      "level": 80,
+      "level": 85,
+      "keywords": ["Language"]
+    },
+    {
+      "name": "French",
+      "level": 50,
       "keywords": ["Language"]
     }
   ],
@@ -149,6 +180,11 @@
     {
       "language": "English",
       "fluency": "Fluent speaker",
+      "keywords": ["Language"]
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate speaker",
       "keywords": ["Language"]
     }
   ],
